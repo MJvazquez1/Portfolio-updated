@@ -1,7 +1,7 @@
 # Portfolio
-This portfolio is a small project using the HTML/CSS and Bootstrap. I will be using the this to showcase my projects and skills [LIVE HEROKU DEPLOYMENT](https://portfolio-amber-stewart.herokuapp.com/)
-# Screenshot:
- <img width=“1373” alt=“Screenshot 2022-03-15 at 2 33 29 PM” src=“img\Screenshot 2022-07-15 224927.jpg”>
+This portfolio is a small project using the HTML/CSS and Bootstrap. I will be using the this to showcase my projects and skills [LIVE HEROKU DEPLOYMENT](https://portfolio-updated.mjvazquez1.repl.co/)
+<img width="1376" alt="Screenshot 2023-01-12 at 9 46 09 AM" src="https://user-images.githubusercontent.com/113742504/211977837-6d68d764-1877-4279-998c-9c2a47ae4f50.png">
+
 # Technologies Used:
 * HTML
 * CSS
